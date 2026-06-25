@@ -23,7 +23,6 @@ O assunto central deste material é a **"Renda Fixa: Estratégias, Precificaçã
 Para a consolidação deste material, foram selecionadas fontes públicas e abertas (em texto ou PDF) que compõem a base de dados do NotebookLM:
 
 1.  [**Investidor10:**](https://www.suno.com.br/guias/renda-fixa-2026/) *Como lucrar na renda fixa em 2026? Analistas já têm estratégia pronta* – Base para entendimento do consenso de mercado (Selic) e visão de bancos como BTG Pactual.
-(https://www.suno.com.br/guias/renda-fixa-2026/)
 2.  [**Blog Santander:**](https://www.santander.com.br/blog/tabela-regressiva) *Qual é a tabela regressiva da Renda Fixa?* – Documentação fundamental sobre alíquotas de imposto de renda no decorrer do tempo.
 3.  [**Mercado Pago:**](https://www.mercadopago.com.br/blog/quando-investir-em-lci-lca) *LCI, LCA, CDB ou Tesouro Direto: qual o melhor?* – Fonte comparativa sobre segurança, liquidez e isenção tributária no mercado de renda fixa nacional.
 4.  [**Artigo Acadêmico (PDF):**](https://imef.furg.br/images/documentos/matematica-aplicada/monografias/2023-Alisson_Tallys_Geraldo_Fiorentin.pdf) *Matemática Aplicada a Títulos Públicos Federais e Análise da Estrutura a Termo da Taxa de Juros* – Fonte técnica e avançada sobre cálculo de taxas, funções financeiras e modelos de previsão de curvas de juros, como Svensson e Nelson-Siegel.
