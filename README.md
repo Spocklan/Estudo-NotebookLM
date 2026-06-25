@@ -3,7 +3,7 @@ Estudo sobre o NotebookLM feito na plataforma DIO
 
 # Estratégias e Tributação de Renda Fixa para 2026
 
-Este repositório contém o caderno temático focado no cenário de **Renda Fixa para o ano de 2026**, abordando estratégias de alocação, precificação avançada e os impactos tributários no mercado brasileiro.
+Este repositório contém o Notebook temático focado no cenário de **Renda Fixa para o ano de 2026**, abordando estratégias de alocação, precificação avançada e os impactos tributários no mercado brasileiro.
 
 ---
 
