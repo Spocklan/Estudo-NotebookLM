@@ -28,8 +28,6 @@ Para a consolidação deste material, foram selecionadas fontes públicas e aber
 4.  [**Artigo Acadêmico (PDF):**](https://imef.furg.br/images/documentos/matematica-aplicada/monografias/2023-Alisson_Tallys_Geraldo_Fiorentin.pdf) *Matemática Aplicada a Títulos Públicos Federais e Análise da Estrutura a Termo da Taxa de Juros* – Fonte técnica e avançada sobre cálculo de taxas, funções financeiras e modelos de previsão de curvas de juros, como Svensson e Nelson-Siegel.
 5.  [**brapi.dev:**](https://brapi.dev/blog/reserva-de-emergencia-guia-completo-2026) *Reserva de Emergência em 2026: Onde Investir e Quanto Guardar* – Guia focado na construção da base do portfólio (liquidez diária).
 
-> 🔗 *Nota: Os links originais constam no indexamento do Notebook do usuário.*
-
 ---
 
 ## 🛠️ Engenharia de Prompts e "Cicatrizes" (Troubleshooting)
